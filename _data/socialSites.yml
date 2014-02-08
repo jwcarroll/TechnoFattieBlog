@@ -1,0 +1,15 @@
+- title: Twitter
+  icon: 'twitter'
+  link: 'https://twitter.com/jwcarroll'
+
+- title: LinkedIn
+  icon: 'linkedin'
+  link: 'https://www.linkedin.com/in/jwcarroll'
+
+- title: 'Google+'
+  icon: 'google-plus'
+  link: 'https://www.google.com/+JoshCarrollW'
+
+- title: GitHub
+  icon: 'github'
+  link: 'https://github.com/jwcarroll'

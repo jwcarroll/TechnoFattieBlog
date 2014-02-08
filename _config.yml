@@ -1,0 +1,5 @@
+name: Techno Fattie
+markdown: redcarpet
+pygments: true
+paginate: 5
+paginate_path: "page:num"
