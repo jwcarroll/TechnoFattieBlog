@@ -238,3 +238,51 @@ a, a:focus, a:hover {
 	}
 
 }
+
+/* Bootstrap Overrides */
+.btn-tag {
+  color: #fff;
+  border-color: #fff;
+}
+.btn-tag:hover,
+.btn-tag:focus,
+.btn-tag:active,
+.btn-tag.active,
+.open .dropdown-toggle.btn-tag {
+  color: #fff;
+  background-color: #d2322d;
+  border-color: #ac2925;
+}
+.btn-tag:active,
+.btn-tag.active,
+.open .dropdown-toggle.btn-tag {
+  background-image: none;
+}
+.btn-tag.disabled,
+.btn-tag[disabled],
+fieldset[disabled] .btn-tag,
+.btn-tag.disabled:hover,
+.btn-tag[disabled]:hover,
+fieldset[disabled] .btn-tag:hover,
+.btn-tag.disabled:focus,
+.btn-tag[disabled]:focus,
+fieldset[disabled] .btn-tag:focus,
+.btn-tag.disabled:active,
+.btn-tag[disabled]:active,
+fieldset[disabled] .btn-tag:active,
+.btn-tag.disabled.active,
+.btn-tag[disabled].active,
+fieldset[disabled] .btn-tag.active {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+.btn-tag .badge {
+  color: #d9534f;
+  background-color: #fff;
+}
+
+/* Custom Styles */
+a.tag {
+   margin-left:5px;
+   margin-bottom:5px;
+}

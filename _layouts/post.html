@@ -16,7 +16,7 @@ layout: default
      {% if page.tags != empty %}
      | Tags 
      {% for tag in page.tags %}
-     <span class="label label-{% cycle 'primary', 'success', 'danger' %}">{{tag}}</span> 
+     <a href="/tag/{{tag | uri_escape}}.html" class="btn btn-default btn-xs">{{tag}}</a> 
      {% endfor %}
      {% endif %}
    </p>

@@ -3,3 +3,8 @@ markdown: redcarpet
 pygments: true
 paginate: 5
 paginate_path: "page:num"
+safe: false
+plugins: _plugins
+gems: [jekyll/tagging]
+tag_page_layout: tag_page
+tag_page_dir: tag

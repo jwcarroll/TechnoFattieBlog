@@ -58,7 +58,7 @@
           <ul>
           {% for tag in site.tags %}
             <li>
-              <a href="tag.html" class="label label-{% cycle 'primary', 'success', 'danger' %}">{{ tag | first }}</a>
+              <a href="/tag/{{tag | first | uri_escape}}.html" class="tag btn btn-tag btn-sm">{{ tag | first }}</a>
             </li>
           {% endfor %}
           </ul>
