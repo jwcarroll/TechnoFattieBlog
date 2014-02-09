@@ -11,12 +11,12 @@ layout: default
    <img class="entry-avatar" alt="{{ site.data.author.name }}" height="52" width="52" src="{{ site.data.author.avatarUrl }}?s=52">
    <h2 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
    <p class="entry-meta">
-     Posted on <a class="entry-date" href="date.html">{{ page.date | date_to_long_string }}</a> | 
-     By <a class="entry-author" href="author.html">{{site.data.author.name}}</a>
+     Posted on <a class="entry-date" href="/{{site.archives_page_dir}}/#{{ page.date | date: "%B-%Y" | downcase}}">{{ page.date | date_to_long_string }}</a> | 
+     By <a class="entry-author" href="/about/">{{site.data.author.name}}</a>
      {% if page.tags != empty %}
      | Tags 
      {% for tag in page.tags %}
-     <a href="/tag/{{tag | uri_escape}}.html" class="btn btn-default btn-xs">{{tag}}</a> 
+     <a href="/{{site.tag_page_dir}}/{{tag | uri_escape}}.html" class="btn btn-default btn-xs">{{tag}}</a> 
      {% endfor %}
      {% endif %}
    </p>

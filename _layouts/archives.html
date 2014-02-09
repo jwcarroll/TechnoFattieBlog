@@ -1,0 +1,22 @@
+---
+layout: default
+title: Archives
+---
+
+<h1 class="content-head">{{page.title}}</h1>
+
+{% for month in page.months %}
+{% capture title_anchor %}{{month | date:"%B-%Y" | downcase}}{% endcapture %}
+   <section class="post">
+    <header class="entry-header">
+      <h2 class="entry-title"><a class="page-anchor" href="#{{title_anchor}}" id="{{title_anchor}}">{{ month | date:"%B" }} <small>{{ month | date:"%Y" }}</small></a></h2>
+    </header>
+    <div class="entry-description">
+     <ul class="archive-list">
+     {% for post in page.posts_by_month[month] %}
+       <li><a href="{{ post.url }}">{{ post.title | truncate:65 }}</a></li>
+     {% endfor %}
+     </ul>
+    </div>
+   </section> <!-- /.post -->
+{% endfor %}

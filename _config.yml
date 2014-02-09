@@ -1,4 +1,5 @@
 name: Techno Fattie
+description: Josh Carroll's Blog about Programming, Techno and Fatties... ok mostly just programming.
 markdown: redcarpet
 pygments: true
 paginate: 5
@@ -7,4 +8,5 @@ safe: false
 plugins: _plugins
 gems: [jekyll/tagging]
 tag_page_layout: tag_page
-tag_page_dir: tag
+tag_page_dir: tags
+archives_page_dir: archives

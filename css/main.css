@@ -286,3 +286,38 @@ a.tag {
    margin-left:5px;
    margin-bottom:5px;
 }
+
+.tag-title{
+   color:#d2322d;
+   font-weight:bold;
+}
+
+ul.archive-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.archive-list li:before {    
+   font-family: 'FontAwesome';
+   content: '\f121';
+   margin-right:5px;
+   color: #aaa;
+}
+
+/* Pager overrides for Twitter Bootstrap */
+.pager {
+   margin: 20px 0 0 0;
+}
+
+.pager li>a, .pager li>span {
+   padding: 2px 14px;
+   background-color: transparent;
+   border: 1px solid transparent;
+   border-radius: 2px;
+}
+
+.pager .disabled>a, .pager .disabled>a:hover, .pager .disabled>a:focus, .pager .disabled>span {
+   color: #999;
+   background-color: transparent;
+   cursor: not-allowed;
+}

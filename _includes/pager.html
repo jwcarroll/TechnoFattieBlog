@@ -3,13 +3,23 @@
 
   {% if paginator.next_page %}
    <li class="previous">
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Older</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Older</a>
+   </li>
+   {% else %}
+   <li class="previous disabled">
+     <a href="#">&larr; Older</a>
    </li>
   {% endif %}
 
+  <li><a href="/{{site.archives_page_dir}}/">Archives</a></li>
+  
   {% if paginator.previous_page %}
   <li class="next">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer &raquo;</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer &rarr;</a>
+  </li>
+  {% else %}
+  <li class="next disabled">
+    <a href="#">Newer &rarr;</a>
   </li>
   {% endif %}
 

@@ -8,7 +8,7 @@
     <meta name="author" content="{{ site.author }}">
     <link rel="shortcut icon" href="favicon.ico">
 
-    <title>{{site.name}}{% if page.title != null %} - {{ page.title }}{% endif %}</title>
+    <title>{% if page.title != null %}{{ page.title }} - {% endif %}{{site.name}}</title>
 
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet">
@@ -38,8 +38,8 @@
       <aside>
 
         <div class="about">
-          <h4>Josh Carroll</h4>
-          <p>Computer geek, husband, father, theologian. I rock out web sites. I work for <a href="http://www.wintellect.com/">Wintellect</a>.</p>
+          <h4>About Josh Carroll</h4>
+          <p>Computer geek, husband, father, theologian. I rock out web sites. I work for {% include employer.html %}.</p>
         </div>
 
         <div class="socialmedia">
@@ -58,10 +58,14 @@
           <ul>
           {% for tag in site.tags %}
             <li>
-              <a href="/tag/{{tag | first | uri_escape}}.html" class="tag btn btn-tag btn-sm">{{ tag | first }}</a>
+              <a href="/{{site.tag_page_dir}}/{{tag | first | uri_escape}}.html" class="tag btn btn-tag btn-sm">{{ tag | first }}</a>
             </li>
           {% endfor %}
           </ul>
+        </div>
+        
+        <div class="sidebar-links">
+         <h4><a href="/{{site.archives_page_dir}}/">Archives</a></h4>
         </div>
         
         {% if site.related_posts.size > 0 %}
@@ -87,7 +91,7 @@
               <a rel="home" title="{{site.name}}" href="/">
                 <i class="fa fa-code"></i> {{ site.name }}
               </a>
-            </h1>
+            </h1>            
           </hgroup>
           <div id="togglesidebar" class="btn btn-primary pull-right">
             <i class="fa fa-bars"></i>
@@ -97,7 +101,7 @@
         {{content}}
 
         <footer class="footer">
-          <p>© Josh Carroll 2014. All right reserved.</p>
+          <p>© <a href="/about/">Josh Carroll</a> 2014. All right reserved.</p>
           <div class="socials-footer">
           {% for socialSite in site.data.socialSites %}
             <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" title="{{socialSite.title}}">
