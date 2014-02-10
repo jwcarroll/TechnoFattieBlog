@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/share_this.html" />
-      <change type="DELETED" beforePath="C:\Dev\TechnoFattieBlog\_posts\2013-04-12-angular-modules-and-dependency-injection.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md" afterPath="$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown" afterPath="$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,20 +37,20 @@
       </file>
       <file leaf-file-name="2013-04-12-angular-modules-and-dependency-injection.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="-22.074074" vertical-offset="781" max-vertical-offset="2210">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2210">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="850">
+            <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
@@ -65,7 +59,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="-16.448277" vertical-offset="11763" max-vertical-offset="99229">
+            <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
               <folding />
             </state>
           </provider>
@@ -83,21 +77,21 @@
       <file leaf-file-name="share_this.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="425">
+            <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-04-15-but-what-if-we-run-out-of-guids.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013-04-15-but-what-if-we-run-out-of-guids.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.8045977" vertical-offset="254" max-vertical-offset="1071">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="-24.037037" vertical-offset="235" max-vertical-offset="1071">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -113,16 +107,16 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+            <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="39" selection-start="1577" selection-end="1669" vertical-scroll-proportion="-14.384615" vertical-offset="408" max-vertical-offset="2159">
+            <state line="9" column="4" selection-start="371" selection-end="371" vertical-scroll-proportion="0.18500605" vertical-offset="0" max-vertical-offset="2176">
               <folding />
             </state>
           </provider>
@@ -141,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/css/pygments/vs.css" />
         <option value="$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md" />
         <option value="$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.html" />
@@ -152,14 +145,15 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_plugins/tweet_tag.rb" />
         <option value="$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1911" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1020" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -428,14 +422,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -444,6 +430,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -489,16 +483,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1698" height="1020" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28541338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -507,9 +499,11 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -531,6 +525,82 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="0" selection-start="7678" selection-end="7678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="39" selection-start="1577" selection-end="1669" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
           <folding />
         </state>
@@ -538,23 +608,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="-16.448277" vertical-offset="11763" max-vertical-offset="99229">
+        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/pygments/vs.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="10" selection-start="1844" selection-end="1844" vertical-scroll-proportion="0.6210046" vertical-offset="0" max-vertical-offset="876">
-          <folding />
-        </state>
+        <state line="32" column="10" selection-start="1844" selection-end="1844" vertical-scroll-proportion="0.6210046" vertical-offset="0" max-vertical-offset="876" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
@@ -565,32 +631,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="-22.074074" vertical-offset="781" max-vertical-offset="2210">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="39" selection-start="1577" selection-end="1669" vertical-scroll-proportion="-14.384615" vertical-offset="408" max-vertical-offset="2159">
+        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="425">
+        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="850">
+        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
@@ -604,7 +663,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
@@ -617,13 +676,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.8045977" vertical-offset="254" max-vertical-offset="1071">
+        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="-24.037037" vertical-offset="235" max-vertical-offset="1071">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="371" selection-end="371" vertical-scroll-proportion="0.18500605" vertical-offset="0" max-vertical-offset="2176">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
