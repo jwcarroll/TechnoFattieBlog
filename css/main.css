@@ -116,7 +116,7 @@ a, a:focus, a:hover {
 
 .entry-title {
   color: #222;
-  font-size: 1.8em;
+  font-size: 2.2em;
   margin: 0 0 0.2em;
 }
 
@@ -133,10 +133,15 @@ a, a:focus, a:hover {
 .entry-description {
   color: #344151;
   font-family: "Source Sans Pro",sans-serif;
-  font-size: 1.3em;
+  font-size: 1.4em;
   font-weight: 400;
   letter-spacing: 0.01em;
-  line-height: 1.5em;
+  line-height: 1.6em;
+}
+
+.entry-description h1,.entry-description h2, .entry-description h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .entry-meta {
@@ -157,6 +162,17 @@ a, a:focus, a:hover {
   font-size: 90%;
   text-align: center;
   text-transform: uppercase;
+}
+
+.footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6{
+    color: #aaa;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.post .footer{
+    margin-top:20px;
+    border:none;
 }
 
 /* Secondary 
@@ -320,4 +336,18 @@ ul.archive-list {
    color: #999;
    background-color: transparent;
    cursor: not-allowed;
+}
+
+/* Pre overrides for Twitter Bootstrap */
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 20px 0;
+    font-size: inherit;
+    line-height: inherit;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #FAFAFA;
+    border: 3px solid #ccc;
+    border-radius: 10px;
 }
