@@ -15,8 +15,8 @@ from [Blogger][1] to using [Jekyll][2] with [GitHub pages][3].
 But first... I wanted to tell you a story about getting here.
 
 When I sat down to write this blog post, it was going to be all about how awesome Jekyll and GitHub Pages were. However,
-something interesting happened while writing. I discovered that spending the past several weeks of nights and weekends
-migrating my blog over had little to do with blogging, and everything to do with overcoming personal obstacles.
+something interesting happened while writing. I discovered that spending the past month hacking on this site
+during my nights and weekends had little to do with blogging, and everything to do with overcoming personal obstacles.
 
 ### Techno Fattie? Seriously?
 
@@ -61,7 +61,7 @@ something like this:
 > write my own blog! If [Rob Connery](http://www.wekeroad.com/) can do it then
 > so can I!
 
-So that's what I did. My original intent was just to sit down and type out a few thoughts, but I invented reasons
+My original intent was just to sit down and type out a few thoughts, but I invented reasons
 for not doing it disguised as "work." The reality is that **I was just inventing roadblocks for myself in order to
 avoid doing the real work.** I was chasing ridiculous pipe dreams instead of creating something valuable.
 
@@ -105,7 +105,9 @@ I had to set an attainable goal and stop chasing mountain tops of my own creatio
 
 Now it's time to get busy slaying the next dragon, and the next, and the next...
 
-**If you have any of your own dragons you have slain recently I would love to hear about it in the comments.**
+<br />
+
+***If you have any of your own dragons you have slain recently I would love to hear about it in the comments.***
 
 [1]: https://www.blogger.com/ "Blogger"
 [2]: http://jekyllrb.com/ "Jekyll"
