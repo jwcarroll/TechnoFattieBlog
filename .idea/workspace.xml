@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/google-analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pygments/syntax.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
@@ -27,94 +28,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2011-09-23-solving-ayende's-tax-woes.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-09-23-solving-ayende's-tax-woes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-10-05-recursive-validation-using-dataannotations.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="84" selection-end="84" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2012-01-31-it's-the-principal.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2014-02-11-slaying-the-dragons-of-self-defeat.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="2142">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-04-12-angular-modules-and-dependency-injection.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="2210">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-02-13-angular-powered-text-transformations.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-3.148148" vertical-offset="0" max-vertical-offset="2142">
+            <state line="114" column="0" selection-start="4006" selection-end="4006" vertical-scroll-proportion="0.91457283" vertical-offset="1210" max-vertical-offset="2040">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syntax.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/syntax.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google-analytics.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+            <state line="5" column="22" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-02-02-whine-less-code-more.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-02-02-whine-less-code-more.html">
+      <file leaf-file-name="syntax.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/pygments/syntax.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2012-04-21-validating-read-the-source-luke.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2012-08-31-prototypal-inheritance-in-c#.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.3818408" vertical-offset="254" max-vertical-offset="2210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-04-02-powershell-equality-gotcha-not-always-commutative.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-04-02-powershell-equality-gotcha-not-always-commutative.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
@@ -139,7 +107,6 @@
         <option value="$PROJECT_DIR$/_includes/share_this.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_plugins/tweet_tag.rb" />
         <option value="$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-02-11-blogging-magical-unicorn-edition.md" />
@@ -158,14 +125,17 @@
         <option value="$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html" />
         <option value="$PROJECT_DIR$/_includes/google-analytics.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/js/projects/ng-transform.js" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+    <option name="x" value="1911" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="width" value="1698" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -245,6 +215,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -273,7 +246,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pygments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,44 +310,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Tests" />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.lastSelected" value="preferences.sourceCode.General" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -350,6 +324,11 @@
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\TechnoFattieBlog\css\pygments" />
+    </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -495,14 +474,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <frame x="1911" y="-9" width="1698" height="1020" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24907847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16696805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -535,175 +514,115 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="0" selection-start="7678" selection-end="7678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298">
-          <folding />
-        </state>
+        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="235" max-vertical-offset="1071" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="0" selection-start="7678" selection-end="7678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2210">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="235" max-vertical-offset="1071">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="0" selection-start="7678" selection-end="7678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="2210">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
-          <folding />
-        </state>
+        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
-          <folding />
-        </state>
+        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086">
-          <folding />
-        </state>
+        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="1071" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="1071">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751">
-          <folding />
-        </state>
+        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="39" selection-start="1577" selection-end="1669" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2159">
-          <folding />
-        </state>
+        <state line="46" column="39" selection-start="1577" selection-end="1669" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/syntax.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
+        <state line="720" column="1" selection-start="10617" selection-end="10617" vertical-scroll-proportion="0.0" vertical-offset="11763" max-vertical-offset="99229" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/pygments/vs.css">
@@ -713,196 +632,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850">
-          <folding />
-        </state>
+        <state line="25" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086">
+        <state line="174" column="16" selection-start="2554" selection-end="2554" vertical-scroll-proportion="0.0" vertical-offset="2339" max-vertical-offset="6086" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post_summary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="33" selection-start="988" selection-end="998" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2007-12-22-mandelbrot-bitmap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="52" selection-end="59" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2009-06-23-custom-enum-in-strongly-typed-dataset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-fear-of-success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-qa-being-a-professional-and-waiting-tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.8888888" vertical-offset="0" max-vertical-offset="3298" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-02-09-unit-testing-and-declarative-security-part-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="87" selection-end="87" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-02-11-wpf-fancy-winforms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="87" selection-end="87" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-02-powershell-equality-gotcha-not-always-commutative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="0.06447535" vertical-offset="0" max-vertical-offset="791" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="78" selection-end="78" vertical-scroll-proportion="0.062653564" vertical-offset="0" max-vertical-offset="814" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-02-02-whine-less-code-more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="0.18500605" vertical-offset="0" max-vertical-offset="827" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="8" selection-start="2456" selection-end="2456" vertical-scroll-proportion="0.2261185" vertical-offset="969" max-vertical-offset="2210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="0.062653564" vertical-offset="0" max-vertical-offset="814" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0609319" vertical-offset="0" max-vertical-offset="837" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-09-23-solving-ayende's-tax-woes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0609319" vertical-offset="0" max-vertical-offset="837" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-0.057416268" vertical-offset="133" max-vertical-offset="1071" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="2142">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="0.0" vertical-offset="422" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pygments/github.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pygments/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+        <state line="5" column="22" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751">
+        <state line="114" column="0" selection-start="4006" selection-end="4006" vertical-scroll-proportion="0.91457283" vertical-offset="1210" max-vertical-offset="2040">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post_summary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="988" selection-end="998" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2007-12-22-mandelbrot-bitmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="52" selection-end="59" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-06-23-custom-enum-in-strongly-typed-dataset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-fear-of-success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="863">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-qa-being-a-professional-and-waiting-tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.8888888" vertical-offset="0" max-vertical-offset="3298">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-02-09-unit-testing-and-declarative-security-part-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="87" selection-end="87" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-02-11-wpf-fancy-winforms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="87" selection-end="87" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-09-23-solving-ayende's-tax-woes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="84" selection-end="84" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-02-02-whine-less-code-more.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-02-powershell-equality-gotcha-not-always-commutative.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="3690" selection-end="3690" vertical-scroll-proportion="1.7430379" vertical-offset="0" max-vertical-offset="2210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.10759494" vertical-offset="0" max-vertical-offset="1071">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-3.148148" vertical-offset="0" max-vertical-offset="2142">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.3818408" vertical-offset="254" max-vertical-offset="2210">
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>

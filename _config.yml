@@ -3,7 +3,7 @@ description: Josh Carroll's Blog about Programming, Techno and Fatties... ok mos
 base_url: http://www.technofattie.com
 markdown: redcarpet
 pygments: true
-pygments_theme: vs
+pygments_theme: syntax
 paginate: 5
 paginate_path: "page:num"
 safe: false
@@ -12,4 +12,4 @@ gems: [jekyll/tagging,digest/md5,net/http]
 tag_page_layout: tag_page
 tag_page_dir: tags
 archives_page_dir: archives
-lsi: true
+lsi: false
