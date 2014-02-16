@@ -32,7 +32,11 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <![endif]-->
 
+    {% if site.enable_analytics %}
     {% include google-analytics.html %}
+    {% else %}
+      <!-- Google Analytics Disabled. To Re-Enable set 'enable_analytics: true' in _config.yml -->
+    {% endif %}
   </head>
 
   <body>

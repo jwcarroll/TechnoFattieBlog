@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Dev\TechnoFattieBlog\_posts\2014-02-13-angular-powered-text-transformations.md" afterPath="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-10-05-recursive-validation-using-dataannotations.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2011-10-05-recursive-validation-using-dataannotations.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="77" selection-start="8612" selection-end="8612" vertical-scroll-proportion="0.7962716" vertical-offset="2071" max-vertical-offset="2822">
+            <state line="157" column="77" selection-start="8612" selection-end="8612" vertical-scroll-proportion="-25.23077" vertical-offset="2013" max-vertical-offset="2822">
               <folding />
             </state>
           </provider>
@@ -55,11 +56,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="340">
+            <state line="15" column="22" selection-start="434" selection-end="434" vertical-scroll-proportion="0.30070755" vertical-offset="0" max-vertical-offset="848">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="98" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-13.961538" vertical-offset="266" max-vertical-offset="2278">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,13 +119,13 @@
         <option value="$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html" />
         <option value="$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html" />
         <option value="$PROJECT_DIR$/_includes/google-analytics.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/js/projects/ng-transform.js" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md" />
         <option value="$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md" />
         <option value="$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.html" />
         <option value="$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -293,6 +305,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -461,13 +487,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1698" height="1020" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2435202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2435202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -709,11 +735,6 @@
         <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="0.18500605" vertical-offset="0" max-vertical-offset="827" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="8" selection-start="2456" selection-end="2456" vertical-scroll-proportion="0.2261185" vertical-offset="969" max-vertical-offset="2210" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="17" selection-start="63" selection-end="63" vertical-scroll-proportion="0.062653564" vertical-offset="0" max-vertical-offset="814" />
@@ -751,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -790,7 +804,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="77" selection-start="8612" selection-end="8612" vertical-scroll-proportion="0.7962716" vertical-offset="2071" max-vertical-offset="2822">
+        <state line="157" column="77" selection-start="8612" selection-end="8612" vertical-scroll-proportion="-25.23077" vertical-offset="2013" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="98" selection-start="1527" selection-end="1527" vertical-scroll-proportion="-13.961538" vertical-offset="266" max-vertical-offset="2278">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="434" selection-end="434" vertical-scroll-proportion="0.30070755" vertical-offset="0" max-vertical-offset="848">
           <folding />
         </state>
       </provider>
