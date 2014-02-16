@@ -1,5 +1,8 @@
 name: Techno Fattie
 description: Josh Carroll's Blog about Programming, Techno and Fatties... ok mostly just programming.
+url: http://www.technofattie.com
+author: Josh Carroll
+copyright: 2014 Josh Carroll All rights reserved
 base_url: http://www.technofattie.com
 markdown: redcarpet
 pygments: true
