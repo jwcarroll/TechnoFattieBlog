@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Modules And Dependency Injection
-tags: [angular, dependency-injection]
+tags: [angular, javascript, dependency-injection]
 ---
 
 ### Angular is Awesome!
