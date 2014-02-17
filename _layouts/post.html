@@ -6,22 +6,22 @@ layout: default
 <img src="{{page.headerUrl}}" class="img-responsive">
 {% endif %}
 
-<section class="post">
+<section class="post" itemscope itemtype="http://schema.org/BlogPosting">
  <header class="entry-header">
    <img class="entry-avatar" alt="{{ site.data.author.name }}" height="52" width="52" src="{{ site.data.author.avatarUrl }}?s=52">
-   <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+   <h1 class="entry-title"><a href="{{ page.url }}" itemprop="url"><span itemprop="name">{{ page.title }}</span></a></h1>
    <p class="entry-meta">
-     Posted on <a class="entry-date" href="/{{site.archives_page_dir}}/#{{ page.date | date: "%B-%Y" | downcase}}">{{ page.date | date_to_long_string }}</a> | 
-     By <a class="entry-author" href="/about/">{{site.data.author.name}}</a>
+     Posted on <a class="entry-date" href="/{{site.archives_page_dir}}/#{{ page.date | date: "%B-%Y" | downcase}}"><time itemprop="dateCreated" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time></a> |
+     By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" class="entry-author" href="/about/"><span itemprop="name">{{site.data.author.name}}</span></a></span>
      {% if page.tags != empty %}
      | Tags 
      {% for tag in page.tags %}
-     <a href="/{{site.tag_page_dir}}/{{tag | uri_escape}}.html" class="btn btn-default btn-xs">{{tag}}</a> 
+     <a href="/{{site.tag_page_dir}}/{{tag | uri_escape}}.html" class="btn btn-default btn-xs"><span itemprop="keywords">{{tag}}</span></a>
      {% endfor %}
      {% endif %}
    </p>
  </header>
- <div class="entry-description">
+ <div class="entry-description" itemprop="articleBody">
    {{content}}
  </div>
  {% include share_this.html %}

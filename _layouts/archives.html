@@ -14,7 +14,7 @@ title: Archives
     <div class="entry-description">
      <ul class="archive-list">
      {% for post in page.posts_by_month[month] %}
-       <li><a href="{{ post.url }}">{{ post.title | truncate:65 }}</a></li>
+       <li itemscope itemtype="http://schema.org/BlogPosting"><a href="{{ post.url }}" itemprop="url"><span itemprop="name">{{ post.title | truncate:65 }}</span></a></li>
      {% endfor %}
      </ul>
     </div>

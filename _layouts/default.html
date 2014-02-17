@@ -39,14 +39,15 @@
     {% endif %}
   </head>
 
-  <body>
-
+  <body itemscope itemtype="http://schema.org/Blog">
+    <meta itemprop="url" content="{{site.url}}" />
+    <meta itemprop="description" content="{{site.description}}" />
     <div id="secondary" class="col-sm-3 sidebar" style="display: none;">
       <aside>
 
-        <div class="about">
-          <h4>About Josh Carroll</h4>
-          <p>Computer geek, husband, father, theologian. I rock out web sites. I work for {% include employer.html %}.</p>
+        <div class="about" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <h4>About <span itemprop="name">Josh Carroll</span></h4>
+          <p itemprop="description">Computer geek, husband, father, theologian. I rock out web sites. I work for <span itemprop="worksFor">{% include employer.html %}</span>.</p>
         </div>
 
         <div class="socialmedia">
@@ -65,7 +66,7 @@
           <ul>
           {% for tag in site.tags %}
             <li>
-              <a href="/{{site.tag_page_dir}}/{{tag | first | uri_escape}}.html" class="tag btn btn-tag btn-sm">{{ tag | first }}</a>
+              <a href="/{{site.tag_page_dir}}/{{tag | first | uri_escape}}.html" class="tag btn btn-tag btn-sm"><span itemprop="keywords">{{ tag | first }}</span></a>
             </li>
           {% endfor %}
           </ul>
@@ -96,7 +97,7 @@
           <hgroup class="pull-left">
             <h1 class="site-title">
               <a rel="home" title="{{site.name}}" href="/">
-                <i class="fa fa-code"></i> {{ site.name }}
+                <i class="fa fa-code"></i> <span itemprop="name">{{ site.name }}</span>
               </a>
             </h1>            
           </hgroup>
@@ -108,7 +109,7 @@
         {{content}}
 
         <footer class="footer">
-          <p>© <a href="/about/">Josh Carroll</a> 2014. All right reserved.</p>
+          <p itemprop="author" itemscope itemtype="http://schema.org/Person">© <a href="/about/" itemprop="url"><span itemprop="name">Josh Carroll</span></a> 2014. All right reserved.</p>
           <div class="socials-footer">
           {% for socialSite in site.data.socialSites %}
             <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" title="{{socialSite.title}}">
