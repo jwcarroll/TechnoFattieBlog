@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/archives.html" afterPath="$PROJECT_DIR$/_layouts/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/employer.html" afterPath="$PROJECT_DIR$/_includes/employer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post_summary.html" afterPath="$PROJECT_DIR$/_includes/post_summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="" />
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,6 +27,15 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.3617021" vertical-offset="0" max-vertical-offset="846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="9" selection-start="3543" selection-end="3543" vertical-scroll-proportion="-19.965517" vertical-offset="1053" max-vertical-offset="1870">
               <folding />
             </state>
           </provider>
@@ -207,6 +209,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,14 +447,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0" vertical-offset="235" max-vertical-offset="1071" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_plugins/tweet_tag.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="0" selection-start="2190" selection-end="2190" vertical-scroll-proportion="0.0" vertical-offset="928" max-vertical-offset="1751" />
@@ -728,6 +736,13 @@
     <entry file="file://$PROJECT_DIR$/_layouts/archives.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="12" selection-start="812" selection-end="812" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="9" selection-start="3543" selection-end="3543" vertical-scroll-proportion="-19.965517" vertical-offset="1053" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
