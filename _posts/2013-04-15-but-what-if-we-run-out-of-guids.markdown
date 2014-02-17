@@ -2,6 +2,7 @@
 layout: post
 title: But What If We Run Out of Guids?
 tags: [humor, programming]
+alias: /2013/04/but-what-if-we-run-out-of-guids.html
 ---
 
 There was a bit of programmer humor happening on Twitter today concerning GUIDs.

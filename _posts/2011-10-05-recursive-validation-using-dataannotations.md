@@ -2,6 +2,7 @@
 layout: post
 title: Recursive Validation Using DataAnnotations
 tags: [c#,dot-net,validation]
+alias: /2011/10/recursive-validation-using.html
 ---
 
 I saw a <a href="http://stackoverflow.com/questions/7663501/dataannotations-recursively-validating-an-entire-object-graph">post on Stackoverflow</a> today that piqued my interest.

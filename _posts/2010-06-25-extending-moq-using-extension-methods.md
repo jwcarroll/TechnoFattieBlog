@@ -2,6 +2,7 @@
 layout: post
 title: Extending Moq Using Extension Methods
 tags: [c#,dot-net,tdd,unit-testing]
+alias: /2010/06/if-you-regularly-use-tdd-then-you-are.html
 ---
 
 If you regularly use <a href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a>, then you are familiar with the concept of mocking. If you don't use TDD, then you need to slap yourself and apologize to <a href="http://www.objectmentor.com/omTeam/martin_r.html">Bob Martin</a>, <a href="http://www.objectmentor.com/omTeam/feathers_m.html">Michael Feathers</a> and <a href="http://www.objectmentor.com/omTeam/jeffries_r.html">Ron Jeffries</a> immediately. I'll wait here...

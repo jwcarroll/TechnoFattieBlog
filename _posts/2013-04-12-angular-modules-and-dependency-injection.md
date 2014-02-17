@@ -2,6 +2,7 @@
 layout: post
 title: Angular Modules And Dependency Injection
 tags: [angular, javascript, dependency-injection]
+alias: /2013/04/angular-modules-and-dependency-injection.html
 ---
 
 ### Angular is Awesome!
