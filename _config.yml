@@ -15,5 +15,5 @@ gems: [jekyll/tagging,digest/md5,net/http]
 tag_page_layout: tag_page
 tag_page_dir: tags
 archives_page_dir: archives
-lsi: true
-enable_analytics: true
+lsi: false
+enable_analytics: false

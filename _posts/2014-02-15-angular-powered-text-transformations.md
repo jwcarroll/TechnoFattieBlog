@@ -243,8 +243,6 @@ var NewObj = function(config){
 };
 {% endhighlight %}
 
-###Try It For Yourself:
-
-You can check out the <a href="http://jsfiddle.net/jwcarroll/zwrzf/" target="_blank">full code, and working demo here</a>.
+{% include livedemo.html url="http://jsfiddle.net/jwcarroll/zwrzf/" %}
 
 **In part 2 we will look at using a service to DRY up our code, add some error handling, and support for multiple transformations.**
