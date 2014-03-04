@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/share_this.html" afterPath="$PROJECT_DIR$/_includes/share_this.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialSites.yml" afterPath="$PROJECT_DIR$/_data/socialSites.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" afterPath="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/livedemo.html" afterPath="$PROJECT_DIR$/_includes/livedemo.html" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="18" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
+            <state line="18" column="23" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -45,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="livedemo.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="livedemo.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+            <state line="2" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.041112456" vertical-offset="0" max-vertical-offset="827">
               <folding />
             </state>
           </provider>
@@ -105,16 +104,16 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="245" column="29" selection-start="7926" selection-end="7926" vertical-scroll-proportion="0.0" vertical-offset="3480" max-vertical-offset="4301">
+            <state line="4" column="83" selection-start="195" selection-end="195" vertical-scroll-proportion="-2.5185184" vertical-offset="0" max-vertical-offset="4318">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="share_this.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="share_this.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.34945586" vertical-offset="0" max-vertical-offset="827">
+            <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -162,13 +161,13 @@
         <option value="$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md" />
         <option value="$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown" />
         <option value="$PROJECT_DIR$/_posts/2010-05-04-qa-being-a-professional-and-waiting-tables.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/_includes/livedemo.html" />
         <option value="$PROJECT_DIR$/_data/socialSites.yml" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/share_this.html" />
+        <option value="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/livedemo.html" />
       </list>
     </option>
   </component>
@@ -757,23 +756,6 @@
         <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="0.18613139" vertical-offset="0" max-vertical-offset="822" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="18" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="29" selection-start="7926" selection-end="7926" vertical-scroll-proportion="0.0" vertical-offset="3480" max-vertical-offset="4301">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
@@ -782,13 +764,6 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="351" column="0" selection-start="5466" selection-end="5466" vertical-scroll-proportion="0.0" vertical-offset="5391" max-vertical-offset="6239">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
@@ -830,7 +805,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.34945586" vertical-offset="0" max-vertical-offset="827">
+        <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="83" selection-start="195" selection-end="195" vertical-scroll-proportion="-2.5185184" vertical-offset="0" max-vertical-offset="4318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="23" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.041112456" vertical-offset="0" max-vertical-offset="827">
           <folding />
         </state>
       </provider>

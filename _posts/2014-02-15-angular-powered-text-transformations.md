@@ -2,6 +2,7 @@
 layout: post
 title: Angular Powered Text Transformations - Part 1
 tags: [angular, javascript, ng-transform]
+description: Building a text transformation utility using JavaScript and Angular.js
 ---
 
 ###Tell me if this sounds familiar?
