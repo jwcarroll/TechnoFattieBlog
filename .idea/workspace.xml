@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/livedemo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" afterPath="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/share_this.html" afterPath="$PROJECT_DIR$/_includes/share_this.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialSites.yml" afterPath="$PROJECT_DIR$/_data/socialSites.yml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,10 +45,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="livedemo.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="livedemo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="0.04" vertical-offset="0" max-vertical-offset="850">
+            <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archives.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/archives.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="12" selection-start="812" selection-end="812" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socialSites.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/socialSites.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="14" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="143" selection-start="2635" selection-end="2635" vertical-scroll-proportion="-15.692307" vertical-offset="612" max-vertical-offset="2363">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tag_page.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="author.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/author.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
               <folding />
             </state>
           </provider>
@@ -68,19 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="share_this.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="share_this.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="733" column="10" selection-start="10826" selection-end="10836" vertical-scroll-proportion="0.0" vertical-offset="12183" max-vertical-offset="99229">
+            <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.34945586" vertical-offset="0" max-vertical-offset="827">
               <folding />
             </state>
           </provider>
@@ -101,7 +135,6 @@
       <list>
         <option value="$PROJECT_DIR$/css/pygments/vs.css" />
         <option value="$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.html" />
-        <option value="$PROJECT_DIR$/_includes/share_this.html" />
         <option value="$PROJECT_DIR$/_plugins/tweet_tag.rb" />
         <option value="$PROJECT_DIR$/_posts/2014-02-11-blogging-magical-unicorn-edition.md" />
         <option value="$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md" />
@@ -112,9 +145,7 @@
         <option value="$PROJECT_DIR$/_includes/post_summary.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/archives.html" />
-        <option value="$PROJECT_DIR$/_data/socialSites.yml" />
         <option value="$PROJECT_DIR$/_includes/employer.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2007-12-22-mandelbrot-bitmap.html" />
         <option value="$PROJECT_DIR$/_posts/2009-06-23-custom-enum-in-strongly-typed-dataset.html" />
         <option value="$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md" />
@@ -135,13 +166,16 @@
         <option value="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/_includes/livedemo.html" />
+        <option value="$PROJECT_DIR$/_data/socialSites.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_includes/share_this.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+    <option name="x" value="333" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1596" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -254,6 +288,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -388,6 +436,14 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -396,14 +452,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -449,14 +497,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <frame x="333" y="-9" width="1596" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22748815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22736031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -464,12 +512,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -575,34 +623,9 @@
         <state line="25" column="7" selection-start="1298" selection-end="1298" vertical-scroll-proportion="-15.769231" vertical-offset="15" max-vertical-offset="850" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="823" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/archives.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="12" selection-start="812" selection-end="812" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="9" selection-start="3543" selection-end="3543" vertical-scroll-proportion="-19.965517" vertical-offset="1053" max-vertical-offset="1870" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/author.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="140" selection-start="2113" selection-end="2113" vertical-scroll-proportion="-16.346153" vertical-offset="408" max-vertical-offset="2295" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/socialSites.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-fear-of-success.html">
@@ -756,13 +779,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="351" column="0" selection-start="5466" selection-end="5466" vertical-scroll-proportion="0.0" vertical-offset="5391" max-vertical-offset="6239">
@@ -772,7 +788,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="0.04" vertical-offset="0" max-vertical-offset="850">
+        <state line="2" column="4" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/author.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/archives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="12" selection-start="812" selection-end="812" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/socialSites.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="143" selection-start="2635" selection-end="2635" vertical-scroll-proportion="-15.692307" vertical-offset="612" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.34945586" vertical-offset="0" max-vertical-offset="827">
           <folding />
         </state>
       </provider>

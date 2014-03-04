@@ -4,12 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    {% if page.description != null %}
+    <meta name="description" content="{{page.description}}">
+    {% else %}
+    <meta name="description" content="{{site.description}}">
+    {% endif %}
     <meta name="author" content="{{ site.author }}">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <title>{% if page.title != null %}{{ page.title }} - {% endif %}{{site.name}}</title>
+    <title>{% if page.title != null %}{{ page.title }}{% if page.tag != null %}: {{page.tag}}{% endif %} - {% endif %}{{site.name}}</title>
 
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet">
@@ -54,7 +58,7 @@
           <h4>Connect</h4>
           <div class="socials-sidebar">
           {% for socialSite in site.data.socialSites %}
-            <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" title="{{socialSite.title}}">
+            <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" {% if socialSite.author %} rel="author" {% else %} rel="nofollow" {% endif %} title="{{socialSite.title}}">
               <i class="fa fa-{{socialSite.icon}}"></i>
             </a>
           {% endfor %}

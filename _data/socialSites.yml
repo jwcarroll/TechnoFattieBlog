@@ -9,6 +9,7 @@
 - title: 'Google+'
   icon: 'google-plus'
   link: 'https://www.google.com/+JoshCarrollW?rel=author'
+  author: true
 
 - title: GitHub
   icon: 'github'
