@@ -12,7 +12,7 @@ description: "Scope Soup is when you build a tangled mess of Angular code that i
 The more I dug into this person's particular problem the more help I realized they needed. They were admittedly an
 Angular noob, but making a pretty decent effort by getting their hands dirty. A+ for effort.
 
-I ended up completely refactoring their code, but **I see these same kinds of problems over and over again so I decided
+I ended up completely refactoring their code, but **[I see these same kinds of problems][3] over and over again so I decided
 to compile some of these guidelines into a blog post for future reference.**
 
 If you are impatient, here is the [original code](http://plnkr.co/edit/0aYg1TbnRFwW1WhuPKYp?p=preview),
@@ -48,7 +48,7 @@ AAAAHHHHHH!!!! Somebody save me from the madness!
 
 **<span class="keyword">Scope Soup</span> is when you build a tangled mess of Angular code that is completely
 coupled to `$scope` in really terrible ways.** The unfortunate part is that you see a lot of examples like that.
-I've written code like that. But after a year and a half working on a massive Angular project,
+I've written code like that. But after a year and a half working on a [massive Angular project][3],
 I can assure you there is a better way.
 
 **So without further ado, here are my <span class="keyword">five guidelines for avoiding Scope Soup in Angular.</span>**
@@ -279,7 +279,7 @@ Some of you might be objecting right now that I could have done the same thing b
 the same thing, but **I prefer to keep those details hidden for the same reason I keep `$http` hidden behind a service layer.**
 It also means I am not dependent on having a particular parent-child relationship configured in order to make this work.
 Another advantage is that my service could be doing a lot more stuff under the hood if needed. It could be calling a
-we service, or pushing out a message using Web Sockets, but the code in my controllers won't have to change.
+web service, or pushing out a message using Web Sockets, but the code in my controllers won't have to change.
 
 ###Conclusion
 
@@ -293,3 +293,4 @@ In the end you will have a much more testable, and maintainable application.
 
   [1]: http://plnkr.co/edit/vLE3vwFTlEaIjQyvbULt?p=preview
   [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+  [3]: http://wintellect.com/html5-javascript-experts-angular-consultants

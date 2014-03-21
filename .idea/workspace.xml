@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_drafts/2014-03-06-angular-powered-text-transformations-part-2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ng-transform/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/demos.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/ng-transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ng-transform/services/textTransformation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ng-transform/controllers/transformCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ng-transform/directives/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" afterPath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
@@ -38,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="563">
+            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -49,20 +37,20 @@
       </file>
       <file leaf-file-name="2014-03-06-angular-powered-text-transformations-part-2.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_drafts/2014-03-06-angular-powered-text-transformations-part-2.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="0" selection-start="3501" selection-end="3501" vertical-scroll-proportion="-27.25926" vertical-offset="726" max-vertical-offset="1598">
+            <state line="86" column="0" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1598">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="transform.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/transform.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
+            <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -89,21 +77,21 @@
       <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1462">
+            <state line="58" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1462">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="118" selection-start="8557" selection-end="8557" vertical-scroll-proportion="21.074074" vertical-offset="4564" max-vertical-offset="5100">
+            <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.3747495" vertical-offset="612" max-vertical-offset="5117">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -118,25 +106,25 @@
       </file>
       <file leaf-file-name="2014-02-15-angular-powered-text-transformations.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="199" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4318">
+            <state line="0" column="0" selection-start="0" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4318">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="2014-02-11-slaying-the-dragons-of-self-defeat.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="57.444443" vertical-offset="1636" max-vertical-offset="2142">
+            <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="1636" max-vertical-offset="2142">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -197,16 +185,16 @@
         <option value="$PROJECT_DIR$/_posts/2014-03-06-angular-powered-text-transformations-part-2.md" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-angular-guidelines-avoiding-scope-soup.md" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1911" />
+    <option name="x" value="333" />
     <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1020" />
+    <option name="width" value="1596" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -589,14 +577,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -605,6 +585,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -650,14 +638,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1698" height="1020" extended-state="6" />
+    <frame x="333" y="-9" width="1596" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29748285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29646018" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22483423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22479126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -665,12 +653,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -761,11 +749,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="47" selection-start="144" selection-end="144" vertical-scroll-proportion="-0.6296296" vertical-offset="51" max-vertical-offset="2839" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
@@ -794,19 +782,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="7" selection-start="122" selection-end="122" vertical-scroll-proportion="0.023809524" vertical-offset="51" max-vertical-offset="2227" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="52" selection-start="136" selection-end="136" vertical-scroll-proportion="0.021711366" vertical-offset="51" max-vertical-offset="1088" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/2007/12/mandelbrot-bitmap.html">
@@ -885,32 +873,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="58" selection-start="156" selection-end="156" vertical-scroll-proportion="0.04171779" vertical-offset="34" max-vertical-offset="3315" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demos/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="49" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="49" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demos/ng-transform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="12" column="12" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ng-transform/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
+        <state line="3" column="2" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ng-transform/services/textTransformation.js">
@@ -928,47 +910,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-03-06-angular-powered-text-transformations-part-2.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="0" selection-start="3501" selection-end="3501" vertical-scroll-proportion="-27.25926" vertical-offset="726" max-vertical-offset="1598">
+        <state line="86" column="0" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1598">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/transform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
+        <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1462">
+        <state line="58" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="57.444443" vertical-offset="1636" max-vertical-offset="2142">
+        <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="1636" max-vertical-offset="2142">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="199" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4318">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
@@ -978,21 +960,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="118" selection-start="8557" selection-end="8557" vertical-scroll-proportion="21.074074" vertical-offset="4564" max-vertical-offset="5100">
+        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="563">
+        <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.3747495" vertical-offset="612" max-vertical-offset="5117">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
