@@ -1,0 +1,16 @@
+---
+layout: default
+title: Demos and Examples
+---
+
+<h1 class="content-head">{{page.title}}</h1>
+
+<section class="post">
+    <div class="entry-description">
+        <ul class="archive-list">
+            {% for demo in site.data.demos %}
+            <li><a href="{{ demo.url }}" >{{ demo.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</section> <!-- /.post -->

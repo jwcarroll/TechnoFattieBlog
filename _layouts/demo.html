@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" {% if page.angular_app != null %} ng-app="{{page.angular_app}}" {% endif %}>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.description != null %}
+    <meta name="description" content="{{page.description}}">
+    {% else %}
+    <meta name="description" content="{{site.description}}">
+    {% endif %}
+    <meta name="author" content="{{ site.author }}">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <title>{% if page.title != null %}{{ page.title }}{% if page.tag != null %}: {{page.tag}}{% endif %} - {% endif %}{{site.name}}</title>
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/bootstrap-social.css" rel="stylesheet">
+
+    <!-- Styles -->
+    <link href="/css/main.css" rel="stylesheet">
+    <link href="/css/pygments/{{site.pygments_theme}}.css" rel="stylesheet">
+
+    <!-- HTML5 shiv for IE8 support -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <![endif]-->
+
+    {% if site.enable_analytics %}
+    {% include google-analytics.html %}
+    {% else %}
+    <!-- Google Analytics Disabled. To Re-Enable set 'enable_analytics: true' in _config.yml -->
+    {% endif %}
+</head>
+
+<body itemscope itemtype="http://schema.org/Blog">
+<meta itemprop="url" content="{{site.url}}" />
+<meta itemprop="description" content="{{site.description}}" />
+
+<div id="primary" class="col-sm-12">
+    <div class="content">
+
+        <header class="header">
+            <hgroup class="pull-left">
+                <h1 class="site-title">
+                    <a rel="home" title="{{site.name}}" href="/">
+                        <i class="fa fa-code"></i> <span itemprop="name">{{ site.name }}</span>
+                    </a>
+                </h1>
+            </hgroup>
+        </header> <!-- /header -->
+
+        {{content}}
+
+        <footer class="footer">
+            <p itemprop="author" itemscope itemtype="http://schema.org/Person">© <a href="/about/" itemprop="url"><span itemprop="name">Josh Carroll</span></a> 2014. All right reserved.</p>
+            <div class="socials-footer">
+                {% for socialSite in site.data.socialSites %}
+                <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" title="{{socialSite.title}}">
+                    <i class="fa fa-{{socialSite.icon}}"></i>
+                </a>
+                {% endfor %}
+            </div> <!-- /.socials-footer -->
+        </footer> <!-- /footer -->
+
+    </div>
+</div> <!-- /#primary -->
+
+<!-- Scripts -->
+<script src="/js/jquery-1.11.0.min.js"></script>
+<script src="/js/custom.js"></script>
+
+</body>
+</html>
