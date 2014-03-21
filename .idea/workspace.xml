@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" afterPath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="" />
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.56771797" vertical-offset="0" max-vertical-offset="539">
               <folding />
             </state>
           </provider>
@@ -83,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.3747495" vertical-offset="612" max-vertical-offset="5117">
+            <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="-6.9259257" vertical-offset="612" max-vertical-offset="5117">
               <folding />
             </state>
           </provider>
@@ -185,8 +182,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-03-06-angular-powered-text-transformations-part-2.md" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-angular-guidelines-avoiding-scope-soup.md" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -960,21 +957,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.3747495" vertical-offset="612" max-vertical-offset="5117">
+        <state line="47" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="-6.9259257" vertical-offset="612" max-vertical-offset="5117">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.56771797" vertical-offset="0" max-vertical-offset="539">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
