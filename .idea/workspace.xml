@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" afterPath="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/author.yml" afterPath="$PROJECT_DIR$/_data/author.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialSites.yml" afterPath="$PROJECT_DIR$/_data/socialSites.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +28,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.50328946" vertical-offset="0" max-vertical-offset="608">
+            <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.47532895" vertical-offset="0" max-vertical-offset="608">
               <folding />
             </state>
           </provider>
@@ -41,7 +37,7 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="72" selection-start="2249" selection-end="2249" vertical-scroll-proportion="-2.6153846" vertical-offset="867" max-vertical-offset="2482">
+            <state line="26" column="136" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="2584">
               <folding />
             </state>
           </provider>
@@ -134,8 +130,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
         <option value="$PROJECT_DIR$/_data/author.yml" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_data/socialSites.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -907,14 +903,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="72" selection-start="2249" selection-end="2249" vertical-scroll-proportion="-2.6153846" vertical-offset="867" max-vertical-offset="2482">
+        <state line="26" column="136" selection-start="1173" selection-end="1173" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="2584">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.50328946" vertical-offset="0" max-vertical-offset="608">
+        <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.47532895" vertical-offset="0" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
