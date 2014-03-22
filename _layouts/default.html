@@ -13,6 +13,13 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
+    <!-- Google+ Authorship -->
+    <link rel="author" href="{{site.data.author.authorshipUrl}}">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="{{site.data.author.twitterId}}">
+
     <title>{% if page.title != null %}{{ page.title }}{% if page.tag != null %}: {{page.tag}}{% endif %} - {% endif %}{{site.name}}</title>
 
     <!-- Fonts -->
@@ -58,7 +65,7 @@
           <h4>Connect</h4>
           <div class="socials-sidebar">
           {% for socialSite in site.data.socialSites %}
-            <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" {% if socialSite.author %} rel="author" {% else %} rel="nofollow" {% endif %} title="{{socialSite.title}}">
+            <a class="btn btn-{{socialSite.icon}}" href="{{socialSite.link}}" title="{{socialSite.title}}">
               <i class="fa fa-{{socialSite.icon}}"></i>
             </a>
           {% endfor %}

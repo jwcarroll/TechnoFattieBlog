@@ -59,6 +59,10 @@ Angular makes it really easy to add an inline controller as an anonymous functio
 mean you should.** Inline functions encourage you to shove everything into `$scope`, but defining your controller as a class
 and using the prototype to add functionality helps to keep you honest.
 
+** **Update** **
+*A colleage of mine, correctly pointed out that the `this` pointer was refering to `$scope` instead of the controller.
+I forgot to pull out a reference to the controller using a closure. You could also do this using the `.bind()` method.*
+
 {% highlight javascript %}
 //Don't do this
 app.controller('MyCtrl', function($scope){
@@ -70,8 +74,10 @@ app.controller('MyCtrl', function($scope){
 
 //Do this instead
 var MyCtrl = function($scope){
+  var _this = this;
+
   $scope.doStuff = function(){
-    this.doStuff();
+    _this.doStuff();
   };
 };
 
