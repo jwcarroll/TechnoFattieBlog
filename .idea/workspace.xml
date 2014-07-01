@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
-      <change type="DELETED" beforePath="C:\Dev\TechnoFattieBlog\js\pace.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html" afterPath="$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" afterPath="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.36034912" vertical-offset="0" max-vertical-offset="802">
+            <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -48,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-07-01-using-angular-forms-with-controller-as-syntax.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2014-07-01-using-angular-forms-with-controller-as-syntax.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="0" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1156">
+            <state line="35" column="45" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.30049875" vertical-offset="354" max-vertical-offset="1207">
               <folding />
             </state>
           </provider>
@@ -189,10 +184,10 @@
         <option value="$PROJECT_DIR$/_drafts/2014-03-23-extending-angular-script-directive.md" />
         <option value="$PROJECT_DIR$/_drafts/2014-03-23-how-to-extend-angular-script-directive.md" />
         <option value="$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/about/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
       </list>
     </option>
   </component>
@@ -883,13 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="-5.076923" vertical-offset="582" max-vertical-offset="2533">
@@ -906,7 +894,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.36034912" vertical-offset="0" max-vertical-offset="802">
+        <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="45" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.30049875" vertical-offset="354" max-vertical-offset="1207">
           <folding />
         </state>
       </provider>

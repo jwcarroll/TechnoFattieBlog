@@ -31,7 +31,10 @@ Now I can do this in my form:
 ```html
 <div ng-controller="MyCtrl as ctrl">
 
-  <!-- Notice the 'ctrl' prefixing my form name -->
+  <!--
+    Notice the 'ctrl' prefixing my form name?
+    It's the same as my 'Controller As' alias
+  -->
   <form name="ctrl.form">
     ...
   </form>
