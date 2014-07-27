@@ -28,6 +28,10 @@
     <link href="/css/main.css" rel="stylesheet">
     <link href="/css/pygments/{{site.pygments_theme}}.css" rel="stylesheet">
 
+    {% for style in page.styles %}
+    <link href="{{style}}" rel="stylesheet">
+    {% endfor %}
+
     <!-- HTML5 shiv for IE8 support -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -40,22 +44,25 @@
     {% endif %}
 </head>
 
-<body itemscope itemtype="http://schema.org/Blog">
-<meta itemprop="url" content="{{site.url}}" />
-<meta itemprop="description" content="{{site.description}}" />
+<body>
+
+<nav class="demo-nav navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" title="{{site.name}}" href="/demos">
+                <span class="text-danger"><i class="fa fa-code"></i> {{ site.name }} - Demos</span>
+            </a>
+        </div>
+        {% if page.article_url != null %}
+        <div>
+            <p class="navbar-text navbar-right h4"><a href="{{page.article_url}}" class="navbar-link"><i class="fa fa-reply"></i> Back to the article</a></p>
+        </div>
+        {% endif %}
+    </div>
+</nav>
 
 <div id="primary" class="col-sm-12">
-    <div class="content">
-
-        <header class="header">
-            <hgroup class="pull-left">
-                <h1 class="site-title">
-                    <a rel="home" title="{{site.name}}" href="/">
-                        <i class="fa fa-code"></i> <span itemprop="name">{{ site.name }}</span>
-                    </a>
-                </h1>
-            </hgroup>
-        </header> <!-- /header -->
+    <div class="content demo-medium">
 
         {{content}}
 
@@ -76,6 +83,10 @@
 <!-- Scripts -->
 <script src="/js/jquery-1.11.0.min.js"></script>
 <script src="/js/custom.js"></script>
+
+{% for script in page.scripts %}
+<script src="{{script}}"></script>
+{% endfor %}
 
 </body>
 </html>

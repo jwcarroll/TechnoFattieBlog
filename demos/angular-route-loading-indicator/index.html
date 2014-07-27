@@ -1,0 +1,44 @@
+---
+layout: demo
+title: "Demo: Route Loading Indicator"
+angular_app: "route-change-loader"
+styles: ["/css/animate.min.css","styles/route-loading-indicator.css"]
+article_url: "/2014/07/27/easy-loading-indicator-when-switching-views-in-angular.html"
+scripts:
+  - //cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.1/spin.min.js
+  - /js/angular/angular.min.js
+  - /js/angular-animate/angular-animate.min.js
+  - /js/angular-route/angular-route.min.js
+  - scripts/app.js
+  - scripts/slowCtrl.js
+  - scripts/slowDataService.js
+  - scripts/routeLoadingIndicator.js
+  - scripts/activeRoute.js
+---
+
+    <header class="demo-header">
+        <hgroup>
+            <h1 class="site-title">
+                Angular Route Change Loader
+            </h1>
+            <h3 class="text-muted">
+                Simple directive to show loader when switching routes
+            </h3>
+        </hgroup>
+    </header> <!-- /header -->
+
+  <div class="row">
+    <ul class="nav nav-pills">
+      <li activate-on-route="/">
+        <a href="#/default">Default</a>
+      </li>
+      <li activate-on-route="/route1">
+        <a href="#/route1">Slow Loading Controller</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="row">
+    <route-loading-indicator></route-loading-indicator>
+    <div ng-if="!isRouteLoading" class="animate-if col-lg-12" ng-view=""></div>
+  </div>

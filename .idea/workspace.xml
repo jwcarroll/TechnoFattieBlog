@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" afterPath="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_drafts/2014-07-11-animating-text-with-angular-ng-repeat.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-07-27-easy-loading-indicator-when-switching-views-in-angular.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_local_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/activeRoute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-animated-text/styles/animated-text.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-animated-text/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular-animate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-animated-text/scripts/character-wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/views/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/embed-plunker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-animated-text/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/styles/route-loading-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/views/route1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/routeLoadingIndicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/slowCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/slowDataService.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md" afterPath="$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/demo.html" afterPath="$PROJECT_DIR$/_layouts/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/demos.yml" afterPath="$PROJECT_DIR$/_data/demos.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialSites.yml" afterPath="$PROJECT_DIR$/_data/socialSites.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,100 +63,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="398" column="0" selection-start="6104" selection-end="6104" vertical-scroll-proportion="0.0" vertical-offset="6101" max-vertical-offset="6936">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="-5.076923" vertical-offset="582" max-vertical-offset="2533">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-01-using-angular-forms-with-controller-as-syntax.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="45" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.30049875" vertical-offset="354" max-vertical-offset="1207">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="153" selection-start="823" selection-end="823" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-03-25-how-to-extend-angular-script-directive.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="315" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1802">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-03-06-angular-powered-text-transformations-part-2.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2014-03-06-angular-powered-text-transformations-part-2.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="-5.037037" vertical-offset="0" max-vertical-offset="1598">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="3007" selection-end="3007" vertical-scroll-proportion="0.0" vertical-offset="751" max-vertical-offset="1462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-02-15-angular-powered-text-transformations.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="134.25926" vertical-offset="3829" max-vertical-offset="4318">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-04-08-unit-testing-and-declarative-security-part-2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/ng-transform/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="2" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="391">
+            <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="563">
               <folding />
             </state>
           </provider>
@@ -137,28 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/pygments/vs.css" />
-        <option value="$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.html" />
-        <option value="$PROJECT_DIR$/_plugins/tweet_tag.rb" />
-        <option value="$PROJECT_DIR$/_posts/2014-02-11-blogging-magical-unicorn-edition.md" />
-        <option value="$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md" />
-        <option value="$PROJECT_DIR$/_includes/google-analytics.html" />
-        <option value="$PROJECT_DIR$/js/projects/ng-transform.js" />
-        <option value="$PROJECT_DIR$/_posts/2014-02-13-angular-powered-text-transformations.md" />
-        <option value="$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.html" />
-        <option value="$PROJECT_DIR$/_includes/post_summary.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_layouts/archives.html" />
-        <option value="$PROJECT_DIR$/_includes/employer.html" />
-        <option value="$PROJECT_DIR$/_posts/2007-12-22-mandelbrot-bitmap.html" />
-        <option value="$PROJECT_DIR$/_posts/2009-06-23-custom-enum-in-strongly-typed-dataset.html" />
-        <option value="$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md" />
-        <option value="$PROJECT_DIR$/_posts/2011-02-09-unit-testing-and-declarative-security-part-1.html" />
-        <option value="$PROJECT_DIR$/_posts/2011-02-11-wpf-fancy-winforms.html" />
-        <option value="$PROJECT_DIR$/_posts/2011-09-23-solving-ayende's-tax-woes.html" />
-        <option value="$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md" />
-        <option value="$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html" />
-        <option value="$PROJECT_DIR$/_posts/2012-02-02-whine-less-code-more.html" />
         <option value="$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html" />
         <option value="$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html" />
         <option value="$PROJECT_DIR$/_posts/2013-04-02-powershell-equality-gotcha-not-always-commutative.html" />
@@ -169,25 +104,47 @@
         <option value="$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md" />
         <option value="$PROJECT_DIR$/_includes/livedemo.html" />
         <option value="$PROJECT_DIR$/demos/index.html" />
-        <option value="$PROJECT_DIR$/_data/demos.yml" />
         <option value="$PROJECT_DIR$/js/ng-transform/app.js" />
-        <option value="$PROJECT_DIR$/_layouts/demo.html" />
         <option value="$PROJECT_DIR$/demos/ng-transform.html" />
         <option value="$PROJECT_DIR$/views/transform.html" />
         <option value="$PROJECT_DIR$/js/ng-transform/controllers/transformCtrl.js" />
         <option value="$PROJECT_DIR$/_posts/2014-03-06-angular-powered-text-transformations-part-2.md" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-angular-guidelines-avoiding-scope-soup.md" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md" />
         <option value="$PROJECT_DIR$/_data/author.yml" />
-        <option value="$PROJECT_DIR$/_data/socialSites.yml" />
         <option value="$PROJECT_DIR$/_drafts/2014-03-23-extending-angular-script-directive.md" />
         <option value="$PROJECT_DIR$/_drafts/2014-03-23-how-to-extend-angular-script-directive.md" />
         <option value="$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/about/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md" />
+        <option value="$PROJECT_DIR$/js/angular-animated-text/app.js" />
+        <option value="$PROJECT_DIR$/js/angular-animated-text/styles/animated-text.css" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text.html" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text/scripts/app.js" />
+        <option value="$PROJECT_DIR$/css/animate.min.css" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text/styles/animated-text.css" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text/scripts/ctrlCharFilter.js" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text/scripts/character-wrap.js" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_local_config.yml" />
+        <option value="$PROJECT_DIR$/_drafts/2014-07-25-easy-loading-indicator-switching-views-angular.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md" />
+        <option value="$PROJECT_DIR$/_includes/embed-plunkr.html" />
+        <option value="$PROJECT_DIR$/_includes/embed-plunker.html" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/js/angular-animate/angular-animate.js" />
+        <option value="$PROJECT_DIR$/demos/angular-animated-text/index.html" />
+        <option value="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/activeRoute.js" />
+        <option value="$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/app.js" />
+        <option value="$PROJECT_DIR$/demos/angular-route-loading-indicator/styles/route-loading-indicator.css" />
+        <option value="$PROJECT_DIR$/_layouts/demo.html" />
+        <option value="$PROJECT_DIR$/_data/demos.yml" />
+        <option value="$PROJECT_DIR$/_data/socialSites.yml" />
+        <option value="$PROJECT_DIR$/css/bootstrap-social.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_drafts/2014-07-25-easy-loading-indicator-when-switching-views-in-angular.md" />
+        <option value="$PROJECT_DIR$/demos/angular-route-loading-indicator/index.html" />
       </list>
     </option>
   </component>
@@ -252,9 +209,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Tests" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,6 +237,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-route-loading-indicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-route-loading-indicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -297,49 +305,69 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-route-loading-indicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-route-loading-indicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-animated-text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TechnoFattieBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,29 +415,36 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AngularPlayground" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="index" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\TechnoFattieBlog\demos\angular-route-loading-indicator" />
+      <recent name="C:\Dev\TechnoFattieBlog\js" />
       <recent name="C:\Dev\TechnoFattieBlog\views" />
       <recent name="C:\Dev\TechnoFattieBlog\_posts" />
       <recent name="C:\Dev\TechnoFattieBlog\css\pygments" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Dev\TechnoFattieBlog\_posts" />
-      <recent name="C:\Dev\TechnoFattieBlog\_drafts" />
+      <recent name="C:\Dev\TechnoFattieBlog\demos\angular-route-loading-indicator\templates" />
+      <recent name="C:\Dev\TechnoFattieBlog\demos\angular-route-loading-indicator\styles" />
+      <recent name="C:\Dev\TechnoFattieBlog\demos\angular-route-loading-indicator\scripts" />
+      <recent name="C:\Dev\TechnoFattieBlog\demos\angular-animated-text\scripts" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -495,14 +530,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -511,6 +538,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -560,11 +595,10 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32648402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32534248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27486438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24954791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19650392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -572,12 +606,35 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32534248" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2857143" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47139588" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19650392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USERS">
@@ -596,199 +653,17 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.062195122" vertical-offset="0" max-vertical-offset="820" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="9" selection-start="3543" selection-end="3543" vertical-scroll-proportion="-19.965517" vertical-offset="1053" max-vertical-offset="1870" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-fear-of-success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2007-12-22-mandelbrot-bitmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-06-23-custom-enum-in-strongly-typed-dataset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="51" selection-start="142" selection-end="142" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-05-04-qa-being-a-professional-and-waiting-tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="58" selection-start="149" selection-end="149" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-02-09-unit-testing-and-declarative-security-part-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="58" selection-start="173" selection-end="173" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-02-11-wpf-fancy-winforms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0842627" vertical-offset="0" max-vertical-offset="807" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-09-23-solving-ayende's-tax-woes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="0.12639405" vertical-offset="0" max-vertical-offset="807" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-10-05-recursive-validation-using-dataannotations.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="47" selection-start="144" selection-end="144" vertical-scroll-proportion="-0.6296296" vertical-offset="51" max-vertical-offset="2839" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-01-31-it's-the-principal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="125" selection-end="125" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-02-02-whine-less-code-more.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="109" selection-end="109" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-04-21-validating-read-the-source-luke.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="108" selection-end="108" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-08-31-prototypal-inheritance-in-c#.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="48" selection-start="128" selection-end="128" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-02-powershell-equality-gotcha-not-always-commutative.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="58" selection-start="156" selection-end="156" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-12-angular-modules-and-dependency-injection.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="122" selection-end="122" vertical-scroll-proportion="0.023809524" vertical-offset="51" max-vertical-offset="2227" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-04-15-but-what-if-we-run-out-of-guids.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="136" selection-end="136" vertical-scroll-proportion="0.021711366" vertical-offset="51" max-vertical-offset="1088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/2007/12/mandelbrot-bitmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="10" selection-start="10826" selection-end="10836" vertical-scroll-proportion="0.0" vertical-offset="12183" max-vertical-offset="99229" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post_summary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="78" selection-start="634" selection-end="704" vertical-scroll-proportion="0.129771" vertical-offset="0" max-vertical-offset="786" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/pager.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/employer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="444" selection-end="444" vertical-scroll-proportion="0.18613139" vertical-offset="0" max-vertical-offset="822" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/syntax.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/archives.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="812" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/demos.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="26" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2010-06-25-extending-moq-using-extension-methods.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="58" selection-start="156" selection-end="156" vertical-scroll-proportion="0.04171779" vertical-offset="34" max-vertical-offset="3315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="49" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos/ng-transform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ng-transform/services/textTransformation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="62" selection-start="668" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/ng-transform/controllers/transformCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="58" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="344" column="0" selection-start="5274" selection-end="5274" vertical-scroll-proportion="0.0" vertical-offset="5523" max-vertical-offset="6324" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-03-21-five-guidelines-for-avoiding-scope-soup-in-angular.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="0" selection-start="2844" selection-end="2844" vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="5219" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
@@ -798,33 +673,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/author.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="53" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-          <folding />
-        </state>
+        <state line="3" column="53" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/socialSites.yml">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="1595" max-vertical-offset="2142" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="3829" max-vertical-offset="4318" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="153" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/transform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="25" column="6" selection-start="1052" selection-end="1052" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-11-slaying-the-dragons-of-self-defeat.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/demos/ng-transform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="0" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="1595" max-vertical-offset="2142">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="1052" selection-end="1099" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ng-transform/app.js">
@@ -834,74 +724,288 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
+    <entry file="file://$PROJECT_DIR$/../angular-codestock/app/bower_components/animate.css/animate.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="3007" selection-end="3007" vertical-scroll-proportion="0.0" vertical-offset="751" max-vertical-offset="1462">
+        <state line="0" column="0" selection-start="0" selection-end="57480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../angular-codestock/app/views/partials/contact-card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../angular-codestock/app/views/partials/contact-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../angular-codestock/app/styles/site-animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="1" selection-start="2492" selection-end="2492" vertical-scroll-proportion="0.9425676" vertical-offset="1159" max-vertical-offset="1819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="57319" selection-start="57480" selection-end="57480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md">
+    <entry file="file://$PROJECT_DIR$/demos/angular-animated-text/styles/animated-text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-animated-text/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="89" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/angular-animate/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-animated-text/scripts/character-wrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="315" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1802">
+        <state line="9" column="8" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_local_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-07-11-animating-text-with-angular-ng-repeat.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22848">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-03-06-angular-powered-text-transformations-part-2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="0" selection-end="237" vertical-scroll-proportion="-3.148148" vertical-offset="0" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/embed-plunker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="-5.037037" vertical-offset="0" max-vertical-offset="1598">
+        <state line="0" column="87" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="514">
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="1" selection-start="22" selection-end="22" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+          <folding>
+            <marker date="1406403297539" expanded="true" signature="-1:-1" placeholder="{&quot;directory&quot;: &quot;js&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-animated-text/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="804" selection-end="922" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="476">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-15-angular-powered-text-transformations.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/js/angular-animate/angular-animate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="134.25926" vertical-offset="3829" max-vertical-offset="4318">
+        <state line="13" column="2" selection-start="245" selection-end="245" vertical-scroll-proportion="0.4018182" vertical-offset="0" max-vertical-offset="28815">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-04-08-unit-testing-and-declarative-security-part-2.html">
+    <entry file="file://$PROJECT_DIR$/js/angular/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="370311">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/routeLoadingIndicator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="39" selection-start="1407" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="236" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/activeRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="595">
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-route-loading-indicator/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding>
+            <marker date="1406431572322" expanded="true" signature="-1:-1" placeholder="{&quot;redirectTo&quot;: '/'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/employer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post_summary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share_this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/demos.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="39" selection-start="51" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="60" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.61077845" vertical-offset="663" max-vertical-offset="1649">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="-5.076923" vertical-offset="582" max-vertical-offset="2533">
+        <state line="65" column="0" selection-start="2885" selection-end="2885" vertical-scroll-proportion="0.27480915" vertical-offset="961" max-vertical-offset="2533">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
+    <entry file="file://$PROJECT_DIR$/_data/socialSites.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="153" selection-start="823" selection-end="823" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="646">
+        <state line="18" column="18" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="12406" selection-end="12406" vertical-scroll-proportion="0.8963636" vertical-offset="476" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-03-25-how-to-extend-angular-script-directive.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="70" selection-start="3097" selection-end="3167" vertical-scroll-proportion="0.46082088" vertical-offset="1266" max-vertical-offset="1802">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/livedemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.06331471" vertical-offset="0" max-vertical-offset="537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-27-easy-loading-indicator-when-switching-views-in-angular.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="0" selection-start="5631" selection-end="5703" vertical-scroll-proportion="0.8757613" vertical-offset="1746" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-route-loading-indicator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="3" selection-start="582" selection-end="582" vertical-scroll-proportion="0.33090025" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/angular-route-loading-indicator/styles/route-loading-indicator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="11" selection-start="548" selection-end="548" vertical-scroll-proportion="0.5412736" vertical-offset="0" max-vertical-offset="848">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="398" column="0" selection-start="6104" selection-end="6104" vertical-scroll-proportion="0.0" vertical-offset="6409" max-vertical-offset="6936">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-01-using-angular-forms-with-controller-as-syntax.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="45" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.30049875" vertical-offset="354" max-vertical-offset="1207">
+        <state line="18" column="22" selection-start="537" selection-end="537" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="563">
           <folding />
         </state>
       </provider>

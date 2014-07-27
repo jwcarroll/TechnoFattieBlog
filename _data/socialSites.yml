@@ -13,3 +13,7 @@
 - title: GitHub
   icon: 'github'
   link: 'https://github.com/jwcarroll'
+
+- title: RSS
+  icon: 'rss'
+  link: '/rss.xml'

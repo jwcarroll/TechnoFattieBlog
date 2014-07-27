@@ -18,7 +18,7 @@ Angular allows you to specify templates inline using the `<script>` tag, but it 
 **But what if you've got a view that also has some context specific info that you want to make available to the client.**
 You don't want to make *another* trip to the server to get it, so you encode it as JSON, and embed it into a `<script>` tag.
 
-{% highlight html %}
+```html
 <script type="text/context-info">
 {
    "name":"foo-view",
@@ -30,7 +30,7 @@ You don't want to make *another* trip to the server to get it, so you encode it 
    ]
 }
 </script>
-{% endhighlight %}
+```
 
 **Wouldn't it be nice if you could just teach the script directive to handle a new type?**
 
@@ -43,7 +43,7 @@ While you may already know about the [`$provide.decorator`][2] method, you may n
 
 What does that look like?
 
-{% highlight javascript %}
+```javascript
 angular.module('myApp').config([
     '$provide',
     function ($provide) {
@@ -52,7 +52,7 @@ angular.module('myApp').config([
         });
     }
 ]);
-{% endhighlight %}
+```
 
 That will let us grab the directive before it ever gets used, and extend it as we please. **We can use the amazing flexibility
 of JavaScript to add new functionality to the existing directive in order to achieve our desired results.**
@@ -60,10 +60,10 @@ of JavaScript to add new functionality to the existing directive in order to ach
 The script directive uses the `compile` method to work it's magic so that is where we are going to tap in. The first thing
 we need to do is grab a reference to the original compile method.
 
-{% highlight javascript %}
+```javascript
 var scriptDirective = $delegate[0],
     originalCompile = scriptDirective.compile;
-{% endhighlight %}
+```
 
 **Now we can replace the compile method with our own version** that will check the type attribute for our custom type
 and handle it accordingly. In order to make sure we don't mess up the existing directive we simply let it fall through
@@ -71,7 +71,7 @@ to the original compile method.
 
 Finally we just return the intercepted `$delegate` once the modifications have been made.
 
-{% highlight javascript %}
+```javascript
 scriptDirective.compile = function(elem, attr, transclude){
   if(attr.type === 'text/context-info'){
     var contextInfo = JSON.parse(element[0].text);
@@ -85,7 +85,7 @@ scriptDirective.compile = function(elem, attr, transclude){
 };
 
 return $delegate;
-{% endhighlight %}
+```
 
 {% include livedemo.html url="http://embed.plnkr.co/mSFgaO/preview" %}
 
