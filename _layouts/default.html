@@ -140,5 +140,11 @@
     <script src="/js/jquery-1.11.0.min.js"></script>
     <script src="/js/custom.js"></script>
 
+    {% if page.scripts != empty %}
+    {% for script in page.scripts %}
+    <script src="{{script}}"></script>
+    {% endfor %}
+    {% endif %}
+
   </body>
 </html>
