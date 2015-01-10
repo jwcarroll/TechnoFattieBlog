@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Angular Loading Indicator Directive
+description: Have you ever needed a simple and flexible loading indicator in Angular? This post walks you through how to build a reusable directive for doing just that.
 tags: [angular, javascript, directives]
 scripts:
   - /js/angular/angular.min.js

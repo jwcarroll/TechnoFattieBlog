@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/another-angular-loading-indicator/samples.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/js/angular/angular.min.js.gzip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/.bower.json" afterPath="$PROJECT_DIR$/js/angular/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/.bower.json" afterPath="$PROJECT_DIR$/js/angular-animate/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/.bower.json" afterPath="$PROJECT_DIR$/js/angular-route/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/README.md" afterPath="$PROJECT_DIR$/js/angular/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/README.md" afterPath="$PROJECT_DIR$/js/angular-animate/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/README.md" afterPath="$PROJECT_DIR$/js/angular-route/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TechnoFattieBlog.iml" afterPath="$PROJECT_DIR$/.idea/TechnoFattieBlog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/js/angular-animate/angular-animate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular-csp.css" afterPath="$PROJECT_DIR$/js/angular/angular-csp.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/angular-route.js" afterPath="$PROJECT_DIR$/js/angular-route/angular-route.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/angular-route.min.js.map" afterPath="$PROJECT_DIR$/js/angular-route/angular-route.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/angular-route.min.js" afterPath="$PROJECT_DIR$/js/angular-route/angular-route.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular.js" afterPath="$PROJECT_DIR$/js/angular/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/js/angular/angular.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/js/angular/angular.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/bower.json" afterPath="$PROJECT_DIR$/js/angular/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-animate/bower.json" afterPath="$PROJECT_DIR$/js/angular-animate/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular-route/bower.json" afterPath="$PROJECT_DIR$/js/angular-route/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" afterPath="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2015-01-09-another-angular-loading-indicator.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-01-09-another-angular-loading-indicator.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.514286" vertical-offset="2659" max-vertical-offset="3213">
-              <caret line="176" column="13" selection-start-line="176" selection-start-column="13" selection-end-line="176" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.098076925" vertical-offset="0" max-vertical-offset="3230">
+              <caret line="3" column="168" selection-start-line="3" selection-start-column="168" selection-end-line="3" selection-end-column="168" />
               <folding />
             </state>
           </provider>
@@ -96,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34501845" vertical-offset="0" max-vertical-offset="542">
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
@@ -940,17 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.514286" vertical-offset="2659" max-vertical-offset="3213">
-          <caret line="176" column="13" selection-start-line="176" selection-start-column="13" selection-end-line="176" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_local_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.059859157" vertical-offset="0" max-vertical-offset="568">
@@ -977,10 +941,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34501845" vertical-offset="0" max-vertical-offset="542">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.098076925" vertical-offset="0" max-vertical-offset="3230">
+          <caret line="3" column="168" selection-start-line="3" selection-start-column="168" selection-end-line="3" selection-end-column="168" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
