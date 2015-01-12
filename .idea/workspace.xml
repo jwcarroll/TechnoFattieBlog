@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da36d0db-7f04-4d13-bf57-99ae6036f1b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" afterPath="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/google-analytics.html" afterPath="$PROJECT_DIR$/_includes/google-analytics.html" />
     </list>
     <ignored path="TechnoFattieBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2015-01-09-another-angular-loading-indicator.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="google-analytics.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31365314" vertical-offset="0" max-vertical-offset="542">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-01-09-another-angular-loading-indicator.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.098076925" vertical-offset="0" max-vertical-offset="3230">
+            <state vertical-scroll-proportion="-1.4571428" vertical-offset="0" max-vertical-offset="3230">
               <caret line="3" column="168" selection-start-line="3" selection-start-column="168" selection-end-line="3" selection-end-column="168" />
               <folding />
             </state>
@@ -139,6 +149,7 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/another-angular-loading-indicator/samples.js" />
         <option value="$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md" />
+        <option value="$PROJECT_DIR$/_includes/google-analytics.html" />
       </list>
     </option>
   </component>
@@ -314,6 +325,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TechnoFattieBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -811,14 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104808874" vertical-offset="0" max-vertical-offset="811">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-07-11-animating-text-with-angular-ng-repeat.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
@@ -949,13 +966,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-01-09-another-angular-loading-indicator.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.098076925" vertical-offset="0" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="-1.4571428" vertical-offset="0" max-vertical-offset="3230">
           <caret line="3" column="168" selection-start-line="3" selection-start-column="168" selection-end-line="3" selection-end-column="168" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/google-analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31365314" vertical-offset="0" max-vertical-offset="542">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
