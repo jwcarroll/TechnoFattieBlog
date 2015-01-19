@@ -1,0 +1,33 @@
+{
+  "name": "angular-multi-app",
+  "homepage": "https://github.com/jwcarroll/angular-multi-app",
+  "authors": [
+    "Josh Carroll <jwarren.carroll@gmail.com>"
+  ],
+  "description": "Automatically bootstrap multiple angular applications using the 'multi-app' attribute",
+  "main": "multi-app.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.9"
+  },
+  "_release": "54041c3d8b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "54041c3d8b61e1f2de40a205ec9214e5f46708f9"
+  },
+  "_source": "git://github.com/jwcarroll/angular-multi-app.git",
+  "_target": "*",
+  "_originalSource": "angular-multi-app",
+  "_direct": true
+}
