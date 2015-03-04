@@ -18,7 +18,10 @@
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="{{site.data.author.twitterId}}">
+    <meta name="twitter:site" content="{{site.data.author.twitterId}}">
+    {% if page.headerUrl != null %}
+    <meta name="twitter:image" content="{{site.url}}{{page.headerUrl}}">
+    {% endif %}
     {% if page.description != null %}
     <meta name="twitter:description" content="{{page.description}}">
     {% else %}

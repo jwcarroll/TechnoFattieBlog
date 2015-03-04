@@ -2,3 +2,5 @@
   url: "angular-route-loading-indicator"
 - title: "ng-transform"
   url: "ng-transform.html"
+- title: "Nested Controllers and Shared Data"
+  url: "nested-controllers-shared-data"

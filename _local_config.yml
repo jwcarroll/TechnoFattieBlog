@@ -1,3 +1,5 @@
 lsi: false
 enable_analytics: false
+enable_comments: false
 show_drafts: true
+pygments_theme: test-theme

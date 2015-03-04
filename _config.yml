@@ -17,3 +17,4 @@ tag_page_dir: tags
 archives_page_dir: archives
 lsi: true
 enable_analytics: true
+enable_comments: true

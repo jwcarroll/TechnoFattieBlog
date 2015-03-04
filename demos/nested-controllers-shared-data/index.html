@@ -1,0 +1,58 @@
+---
+layout: demo
+title: "Demo: Nested Controllers And Shared Data"
+angular_app: "nested-controllers"
+article_url: "/2015/03/02/nested-controllers-and-shared-data-in-angular.html"
+styles:
+- styles/nested-controllers-demo.css
+scripts:
+- /js/twitter-js/twitter.js
+- /js/lodash/lodash.min.js
+- /js/angular/angular.min.js
+- scripts/app.js
+---
+
+<header class="demo-header">
+    <hgroup>
+        <h1 class="site-title">
+            Sharing Data With Nested Controllers
+        </h1>
+
+        <h2 class="text-muted h3">
+            Using directives to share data without resorting to scope inheritance
+        </h2>
+    </hgroup>
+</header> <!-- /header -->
+
+<div ng-controller="contactsController as ctrl">
+    <div class="row">
+        <div class="col-xs-12" style="float:none;">
+            <form class="form-inline">
+                <div class="form-group">
+                    <label>Search</label>
+                    <input type="search" class="form-control" ng-model="ctrl.searchText">
+                </div>
+                <button type="button" class="btn btn-danger" ng-disabled="ctrl.selectedCount() === 0"
+                        ng-click="ctrl.deleteSelected()">Delete Selected <span ng-if="ctrl.selectedCount()"
+                                                                               ng-bind="ctrl.selectedCount()"></span>
+                </button>
+                <button type="button" class="btn btn-default" ng-click="ctrl.init()">Reset List</button>
+            </form>
+        </div>
+        <div class="col-sm-12 text-center" ng-if="ctrl.contacts.length === 0">
+            <h3>There are no contacts to display, try <a href ng-click="ctrl.init()">resetting the list</a>.</h3>
+        </div>
+    </div>
+
+    <div class="row">
+        <hr/>
+    </div>
+
+    <div class="row contact"
+         ng-repeat="contact in ctrl.contacts | filter:ctrl.searchText"
+         ng-click="contact.isSelected = !contact.isSelected"
+         ng-class="{'contact-selected':contact.isSelected}">
+        <contact contact="contact"></contact>
+        <span ng-if="contact.isSelected"><i class="fa fa-check fa-2x"></i></span>
+    </div>
+</div>
